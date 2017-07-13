@@ -2,31 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on title</title>
-    <link>http://tonybai.com/tags/golang/</link>
+    <link>https://superdragon317.github.io/hugo-test/tags/golang/</link>
     <description>Recent content in Golang on title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jul 2017 11:45:12 +0800</lastBuildDate>
     
-	<atom:link href="http://tonybai.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://superdragon317.github.io/hugo-test/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>http://tonybai.com/welcome/</link>
+      <link>https://superdragon317.github.io/hugo-test/posts/welcome/</link>
       <pubDate>Mon, 10 Jul 2017 11:45:12 +0800</pubDate>
       
-      <guid>http://tonybai.com/welcome/</guid>
+      <guid>https://superdragon317.github.io/hugo-test/posts/welcome/</guid>
+      <description>qwe</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://superdragon317.github.io/hugo-test/welcome/</link>
+      <pubDate>Mon, 10 Jul 2017 11:45:12 +0800</pubDate>
+      
+      <guid>https://superdragon317.github.io/hugo-test/welcome/</guid>
       <description>qwe</description>
     </item>
     
     <item>
       <title>你好，Hugo</title>
-      <link>http://tonybai.com/hello/</link>
+      <link>https://superdragon317.github.io/hugo-test/hello/</link>
       <pubDate>Wed, 23 Sep 2015 16:30:37 +0800</pubDate>
       
-      <guid>http://tonybai.com/hello/</guid>
-      <description>12311111111111111111111111111111111111111111 11111111111111111111111111111111111111111112 31111111111111111111111111111111111111111111 11111111111111111111111111111111111111111231 1111111111111111111111111111111111111111111 11111111111111111111111111111111111111112311 11111111111111111111111111111111111111111111 111111111111111111111111111111111111112311111</description>
+      <guid>https://superdragon317.github.io/hugo-test/hello/</guid>
+      <description> 123111 11111111111111111111111111111111111111 11111111111111111111111111111111111111111112
+  dsdsdsd
+  这是一个区域块
+是丰富的  </description>
     </item>
     
   </channel>

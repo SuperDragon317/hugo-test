@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on title</title>
+    <link>https://superdragon317.github.io/hugo-test/posts/</link>
+    <description>Recent content in Posts on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2017 11:45:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://superdragon317.github.io/hugo-test/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://superdragon317.github.io/hugo-test/posts/welcome/</link>
+      <pubDate>Mon, 10 Jul 2017 11:45:12 +0800</pubDate>
+      
+      <guid>https://superdragon317.github.io/hugo-test/posts/welcome/</guid>
+      <description>qwe</description>
+    </item>
+    
+  </channel>
+</rss>
