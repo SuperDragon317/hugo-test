@@ -34,3 +34,4 @@ deploy:
         token: $GIT_TOKEN
         domain: superdragon317.github.io/hugo-test/
         basedir: public
+ 
