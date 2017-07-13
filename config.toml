@@ -1,4 +1,4 @@
-baseURL = "https://superdragon317.github.io/hugo-test/"
+baseURL = "https://superdragon317.github.io/hugo-test/public"
 languageCode = "en-us"
 title = "title"
 theme = "hyde"
