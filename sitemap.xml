@@ -1,24 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://spencerlyon.com/hugo_gh_blog/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
+    <loc>http://tonybai.com/welcome/</loc>
+    <lastmod>2017-07-10T11:45:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://spencerlyon.com/hugo_gh_blog/posts/newest/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
+    <loc>http://tonybai.com/hello/</loc>
+    <lastmod>2015-09-23T16:30:37+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://spencerlyon.com/hugo_gh_blog/posts/middle/</loc>
-    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
+    <loc>http://tonybai.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://spencerlyon.com/hugo_gh_blog/posts/oldest/</loc>
-    <lastmod>2014-03-27T00:00:00+00:00</lastmod>
+    <loc>http://tonybai.com/tags/development/</loc>
+    <lastmod>2017-07-10T11:45:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tonybai.com/categories/development/</loc>
+    <lastmod>2017-07-10T11:45:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tonybai.com/tags/golang/</loc>
+    <lastmod>2017-07-10T11:45:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tonybai.com/categories/golang/</loc>
+    <lastmod>2017-07-10T11:45:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tonybai.com/tags/</loc>
+    <lastmod>2017-07-10T11:45:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tonybai.com/</loc>
+    <lastmod>2017-07-10T11:45:12+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
