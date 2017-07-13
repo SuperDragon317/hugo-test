@@ -1,3 +1,0 @@
-# hugo-test
-
-## hello hugo
