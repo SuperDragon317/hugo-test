@@ -2,7 +2,6 @@
 contentdir: "content"
 layoutdir: "layouts"
 publishdir: "public"
-canonifyurls: true
 indexes:
   category: "categories"
 baseurl: "http://spencerlyon.com/hugo_gh_blog"
