@@ -1,0 +1,13 @@
+baseURL = "https://superdragon317.github.io/hugo-test/"
+languageCode = "en-us"
+title = "title"
+theme = "hyde"
+canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+
+[params]
+    description = "这里是个人博客"
+    themeColor = "theme-base-07" # for hyde theme
