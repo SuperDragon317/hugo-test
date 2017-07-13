@@ -25,3 +25,7 @@ build:
         name: echo
         code: |
           echo "hello world!"
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: hugo-wercker.ig.nore.me
+        basedir: public
