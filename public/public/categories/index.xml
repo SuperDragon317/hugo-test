@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on title</title>
+    <link>https://superdragon317.github.io/hugo-test/public/categories/</link>
+    <description>Recent content in Categories on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://superdragon317.github.io/hugo-test/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>https://superdragon317.github.io/hugo-test/public/categories/development/</link>
+      <pubDate>Mon, 10 Jul 2017 11:45:12 +0800</pubDate>
+      
+      <guid>https://superdragon317.github.io/hugo-test/public/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://superdragon317.github.io/hugo-test/public/categories/golang/</link>
+      <pubDate>Mon, 10 Jul 2017 11:45:12 +0800</pubDate>
+      
+      <guid>https://superdragon317.github.io/hugo-test/public/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
